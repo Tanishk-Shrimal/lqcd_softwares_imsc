@@ -1,0 +1,6 @@
+build/
+install/
+*.log
+*.tsv
+.DS_Store
+src/llvm-project/

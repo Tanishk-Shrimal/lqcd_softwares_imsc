@@ -1,0 +1,30 @@
+[submodule "src/quda"]
+	path = src/quda
+	url = git@github.com:Tanishk-Shrimal/quda.git
+[submodule "src/quda_laph"]
+	path = src/quda_laph
+	url = git@github.com:Tanishk-Shrimal/quda_laph.git
+[submodule "src/chroma"]
+	path = src/chroma
+	url = https://github.com/JeffersonLab/chroma.git
+[submodule "src/qdpxx"]
+	path = src/qdpxx
+	url = https://github.com/usqcd-software/qdpxx.git
+[submodule "src/qmp"]
+	path = src/qmp
+	url = https://github.com/usqcd-software/qmp.git
+[submodule "src/qdp-jit"]
+	path = src/qdp-jit
+	url = https://github.com/JeffersonLab/qdp-jit.git
+[submodule "src/lalibe"]
+	path = src/lalibe
+	url = https://github.com/callat-qcd/lalibe.git
+[submodule "src/libxml2"]
+	path = src/libxml2
+	url = https://gitlab.gnome.org/GNOME/libxml2.git
+[submodule "src/ninja"]
+	path = src/ninja
+	url = https://github.com/ninja-build/ninja.git
+[submodule "src/Symcorr"]
+	path = src/Symcorr
+	url = git@github.com:Tanishk-Shrimal/Symcorr.git
