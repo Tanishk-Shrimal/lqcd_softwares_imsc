@@ -30,4 +30,4 @@
 	url = git@github.com:Tanishk-Shrimal/Symcorr.git
 [submodule "src/chroma_laph"]
 	path = src/chroma_laph
-	url = git@bitbucket.org:jbulava/chroma_laph.git
+	url = git@github.com:Tanishk-Shrimal/chroma_laph.git
